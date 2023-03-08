@@ -55,6 +55,6 @@ module.exports = {
 		'svelte3/typescript': () => require('typescript'),
 	},
 	rules: {
-		'prettier/prettier': 'warn',
+		'prettier/prettier': 'off',
 	},
-};
+}
